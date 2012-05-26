@@ -1,0 +1,13 @@
+Build.PL
+GNUmakefile
+lib/Devel/Trepan/CmdProcessor/Command/Psh.pm
+lib/Devel/Trepan/Psh.pm
+t/00load.t
+t/00test-pod.t
+MANIFEST			This list of files
+ChangeLog
+Changes
+README.md
+Makefile.PL
+META.yml
+META.json
