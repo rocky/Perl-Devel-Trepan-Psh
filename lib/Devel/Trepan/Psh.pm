@@ -3,7 +3,7 @@ use version; $VERSION = '1.0';
 use Psh;
  
 # Nothing needs to be done for 1.9
-return 1 if $Psh::VERSION >= 1.9;
+return 1 if $Psh::VERSION >= version->parse('1.9');
 
 use warnings; no warnings 'redefine';
 

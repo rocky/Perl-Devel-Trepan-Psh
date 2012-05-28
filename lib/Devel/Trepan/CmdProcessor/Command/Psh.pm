@@ -1,7 +1,7 @@
 # Copyright (C) 2011, 2012 Rocky Bernstein <rocky@cpan.org>
 use warnings; no warnings 'redefine'; 
 
-use rlib '../../../..';
+use rlib '/../..';
 use Psh;
 
 package Devel::Trepan::CmdProcessor::Command::Psh;
